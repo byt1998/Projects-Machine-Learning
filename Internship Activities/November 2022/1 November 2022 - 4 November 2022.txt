@@ -1,0 +1,21 @@
+1st Day:
+Being as IT Audit Data Analyst internship at PT Sinar Mas Agribusiness and Technoglogy
+- Get to know the user, and take access card at 32nd floor
+- Describe application of Sawber and have the Data for understanding the data
+- Describe application of WB and have the data for understanding the data
+
+2nd Day:
+- Make some visualization from data real Sawber
+- Goes to meeting room for forum meeting, explain structured of employee, and describe 
+  whole structure company of Sinarmas
+
+3rd Day:
+- Make some visualization on Data Sawber
+- Explained with Freddy about Data Sales
+- Then I will finding anomali in Data Sales
+
+4th Day:
+- Try to query data sales
+- Make sure what is WB and Manual measure weight FFB
+- Try data read in python
+- Tidak bisa akses MySQL

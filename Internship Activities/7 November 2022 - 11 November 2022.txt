@@ -1,0 +1,9 @@
+Day 1st Monday, November 7th 2022:
+- Found anomali in data Sales
+- Make some simple visualization in pivot
+table data sales
+
+Day 2nd Tuesday, November 8th 2022:
+- Merge data sales items and data sales 
+header with python
+- repeat found anomaly same as like before

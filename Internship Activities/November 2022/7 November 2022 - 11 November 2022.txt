@@ -1,0 +1,22 @@
+Day 1st Monday, November 7th 2022:
+- Found anomali in data Sales
+- Make some simple visualization in pivot
+table data sales
+
+Day 2nd Tuesday, November 8th 2022:
+- Finding anomali data sales transaction
+- Try merge Data Sales Items and header use pandas
+
+Day 3rd Wednesday, November 9th 2022:
+- I did merge 6 tables those are Data Sales Transaction, Data Sales Delivery, and Data Sales Billings base on left Data Sales Transaction use python
+
+Day 4th Thursday, November 10th 2022:
+- Understanding Data after all data dependent has been merge
+- Repeated understanding dataset
+- Finding anomali that before I have been made from data sales transaction to the next this dataset
+- After merge I just found anomali 3 data
+
+Day 5th Friday, November 11th 2022:
+- Understanding each Data Transaction, Delivery, and Billings
+- Learn about Power BI and try to make some visualizations
+

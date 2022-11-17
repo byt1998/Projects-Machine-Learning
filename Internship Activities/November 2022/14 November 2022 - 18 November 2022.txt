@@ -1,0 +1,16 @@
+Monday, November 14th 2022:
+- Understanding carefully anomali that has found on data sales
+- Try exploratory data analysis from data sales 
+
+Tuesday, November 15th 2022:
+- I have given data log web gar and smart 
+- Cleaning data use python
+- Try found anomali in data gar_access_log, analysis, and visualization use python, excel, and power BI
+- Found anomali data gar_access_log there's bot accesses freely
+
+Wednesday, November 16th 2022:
+- Understand data in data smart_access_log
+- Try to Analysis, founding anomali, and visualization in data smart_access_log, smart_error_log, gar_access_log, and gar_server_error_log
+
+Thursday, November 17th 2022:
+- Presentation day with data access server GAR and SMART
