@@ -1,0 +1,99 @@
+2022-10-05 09:00:40 UTC [nginx][error] 53047#0: *1348328 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 66.96.249.130, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 08:36:10 UTC [apache][autoindex:error] [pid 52977] [client 20.55.114.34:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-05 08:28:22 UTC [apache][autoindex:error] [pid 52608] [client 109.206.241.123:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-05 08:24:51 UTC [apache][autoindex:error] [pid 52408] [client 109.206.241.123:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-05 08:00:58 UTC [nginx][error] 47836#0: *1328082 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 36.66.88.98, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 07:59:40 UTC [nginx][error] 47837#0: *1327521 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 66.96.249.130, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 07:56:40 UTC [nginx][error] 47836#0: *1326434 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 116.12.147.50, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 07:56:29 UTC [nginx][error] 47836#0: *1326434 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 116.12.147.50, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 07:55:12 UTC [nginx][error] 47836#0: *1325985 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/security.txt" failed (2: No such file or directory), client: 71.6.158.166, server: goldenagri.com.sg, request: "GET /.well-known/security.txt HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 07:22:52 UTC [nginx][error] 47836#0: *1314155 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/assetlinks.json" failed (2: No such file or directory), client: 66.249.68.18, server: goldenagri.com.sg, request: "GET /.well-known/assetlinks.json HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:59:38 UTC [nginx][error] 47054#0: *1306414 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 66.96.249.130, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:58:38 UTC [nginx][error] 47051#0: *1306052 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 66.96.249.130, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:48:22 UTC [nginx][error] 47053#0: *1302623 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 103.6.151.76, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:48:11 UTC [nginx][error] 47053#0: *1302623 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 103.6.151.76, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:33:57 UTC [nginx][error] 44339#0: *1297377 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 36.66.88.98, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:33:48 UTC [nginx][error] 44339#0: *1297377 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 36.66.88.98, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:33:39 UTC [nginx][error] 44339#0: *1297377 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 36.66.88.98, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:33:30 UTC [nginx][error] 44339#0: *1297377 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 36.66.88.98, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 06:23:38 UTC [apache][autoindex:error] [pid 45683] [client 109.206.241.123:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-05 05:58:33 UTC [nginx][error] 44338#0: *1286314 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 66.96.249.130, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 05:57:25 UTC [nginx][error] 44338#0: *1285970 openat() "/home/u3-g8our64huscn/www/goldenagri.com.sg/public_html/.well-known/autoconfig/mail/autodiscover.xml" failed (2: No such file or directory), client: 66.96.249.130, server: goldenagri.com.sg, request: "POST /autodiscover/autodiscover.xml HTTP/1.1", host: "goldenagri.com.sg"
+‮
+2022-10-05 02:07:25 UTC [apache][autoindex:error] [pid 30446] [client 109.206.241.123:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-04 20:07:52 UTC [apache][autoindex:error] [pid 12708] [client 20.171.59.197:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-04 17:21:11 UTC [apache][authz_core:error] [pid 3077] [client 20.167.57.144:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/wp-includes/css/wp-config.php, referer www.bing.com
+‮
+2022-10-04 11:35:03 UTC [apache][autoindex:error] [pid 84901] [client 95.217.32.126:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/sustainability-dashboard/files/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive
+‮
+2022-10-04 10:34:20 UTC [apache][access_compat:error] [pid 81218] [client 135.181.80.224:12136] AH01797: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/wp-content/uploads/2016/index.php
+‮
+2022-10-04 10:34:20 UTC [apache][access_compat:error] [pid 81218] [client 135.181.80.224:12136] AH01797: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/wp-content/uploads/2016/Index.php
+‮
+2022-10-04 09:45:53 UTC [apache][autoindex:error] [pid 78902] [client 109.206.241.123:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-04 09:41:51 UTC [apache][autoindex:error] [pid 78705] [client 18.206.170.110:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-includes/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive
+‮
+2022-10-04 09:35:28 UTC [apache][autoindex:error] [pid 78453] [client 109.206.241.123:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-04 08:55:52 UTC [apache][autoindex:error] [pid 76621] [client 172.127.119.208:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/sustainability-dashboard/files/file_docs/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive
+‮
+2022-10-04 07:32:10 UTC [apache][access_compat:error] [pid 71988] [client 158.140.131.122:12136] AH01797: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/wp-content/uploads/dump.sql, referer https://www.goldenagri.com.sg
+‮
+2022-10-04 07:32:09 UTC [apache][access_compat:error] [pid 71988] [client 158.140.131.122:12136] AH01797: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/wp-content/uploads/index.php, referer https://www.goldenagri.com.sg
+‮
+2022-10-04 07:32:09 UTC [apache][access_compat:error] [pid 71988] [client 158.140.131.122:12136] AH01797: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/wp-content/uploads/Index.php, referer https://www.goldenagri.com.sg
+‮
+2022-10-04 07:32:08 UTC [apache][autoindex:error] [pid 71988] [client 158.140.131.122:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-content/mu-plugins/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer https://www.goldenagri.com.sg
+‮
+2022-10-04 07:32:05 UTC [apache][authz_core:error] [pid 71988] [client 158.140.131.122:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/wp-content/debug.log, referer https://www.goldenagri.com.sg
+‮
+2022-10-04 07:32:04 UTC [apache][authz_core:error] [pid 71988] [client 158.140.131.122:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg
+‮
+2022-10-04 04:24:55 UTC [apache][authz_core:error] [pid 60933] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/work-with-us/
+‮
+2022-10-04 04:24:15 UTC [apache][authz_core:error] [pid 60890] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/work-with-us/
+‮
+2022-10-04 04:21:18 UTC [apache][authz_core:error] [pid 60740] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/about-us/our-leaderships/?tab=tab-0
+‮
+2022-10-04 04:20:34 UTC [apache][authz_core:error] [pid 60740] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/about-us/our-leaderships/?tab=tab-0
+‮
+2022-10-04 04:20:12 UTC [apache][authz_core:error] [pid 60679] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/
+‮
+2022-10-04 04:19:24 UTC [apache][authz_core:error] [pid 60679] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/
+‮
+2022-10-04 04:16:00 UTC [apache][authz_core:error] [pid 60405] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/
+‮
+2022-10-04 04:15:11 UTC [apache][authz_core:error] [pid 60413] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/
+‮
+2022-10-04 04:12:02 UTC [apache][authz_core:error] [pid 60184] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/investors/
+‮
+2022-10-04 04:11:16 UTC [apache][authz_core:error] [pid 60060] [client 54.84.7.201:12136] AH01630: client denied by server configuration: /home/customer/www/goldenagri.com.sg/public_html/xmlrpc.php, referer https://www.goldenagri.com.sg/investors/
+‮
+2022-10-04 03:01:59 UTC [apache][autoindex:error] [pid 56448] [client 185.227.153.226:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-04 01:54:28 UTC [apache][autoindex:error] [pid 52915] [client 185.227.153.226:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/wp-admin/css/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive, referer binance.com
+‮
+2022-10-04 00:29:08 UTC [apache][autoindex:error] [pid 48964] [client 2a01:4f9:3a:2c19::2:12136] AH01276: Cannot serve directory /home/customer/www/goldenagri.com.sg/public_html/pdfs/: No matching DirectoryIndex (index.html,Index.html,index.shtml,index.php,Index.php,index.phtml,Index.phtml,index.htm,Index.htm,home.htm,Home.htm,Default.htm,Default.html,default.htm,default.html) found, and server-generated directory index forbidden by Options directive

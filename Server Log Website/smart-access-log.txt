@@ -1,0 +1,599 @@
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:45 +0000] "GET /gar-kupas-sejumlah-tantangan-dalam-membangun-tenaga-kerja-perkebunan-yang-berkelanjutan/ HTTP/1.1" 200 51356 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.436 0.440 0.765 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:43 +0000] "GET /pt-smart-sajikan-tema-quottaste-of-springquot-pada-sial-interfood-indonesia-2016-melalui-produk-produk-inovatif-dan-baking-demo-chef-profesional HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.196 0.196 0.196 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:43 +0000] "GET /pt-smart-sajikan-tema-quottaste-of-springquot-pada-sial-interfood-indonesia-2016-melalui-produk-produk-inovatif-dan-baking-demo-chef-profesional/ HTTP/1.1" 200 51586 "https://www.smart-tbk.com/pt-smart-sajikan-tema-quottaste-of-springquot-pada-sial-interfood-indonesia-2016-melalui-produk-produk-inovatif-dan-baking-demo-chef-profesional" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.024 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:42 +0000] "GET /pt-smart-sajikan-tema-quottaste-of-springquot-pada-sial-interfood-indonesia-2016-melalui-produk-produk-inovatif-dan-baking-demo-chef-profesional HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.249 0.249 0.249 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:42 +0000] "GET /pt-smart-sajikan-tema-quottaste-of-springquot-pada-sial-interfood-indonesia-2016-melalui-produk-produk-inovatif-dan-baking-demo-chef-profesional/ HTTP/1.1" 200 51594 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:41 +0000] "GET /pt-smart-sajikan-tema-quottaste-of-springquot-pada-sial-interfood-indonesia-2016-melalui-produk-produk-inovatif-dan-baking-demo-chef-profesional/ HTTP/1.1" 200 51586 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.433 0.437 0.934 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:40 +0000] "GET /pabrik-kelapa-sawit-yang-dikelola-pt-smart-raih-peringkat-hijau-dalam-penilaian-proper HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.238 0.238 0.238 MISS 0 NC:000000 UP:-
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:40 +0000] "GET /favicon.ico HTTP/2.0" 200 15086 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:39 +0000] "GET /pabrik-kelapa-sawit-yang-dikelola-pt-smart-raih-peringkat-hijau-dalam-penilaian-proper/ HTTP/1.1" 200 51346 "https://www.smart-tbk.com/pabrik-kelapa-sawit-yang-dikelola-pt-smart-raih-peringkat-hijau-dalam-penilaian-proper" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.028 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:39 +0000] "GET /pabrik-kelapa-sawit-yang-dikelola-pt-smart-raih-peringkat-hijau-dalam-penilaian-proper HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.290 0.290 0.290 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:38 +0000] "GET /pabrik-kelapa-sawit-yang-dikelola-pt-smart-raih-peringkat-hijau-dalam-penilaian-proper/ HTTP/1.1" 200 51347 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.354 0.357 0.666 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:37 +0000] "GET /pabrik-kelapa-sawit-yang-dikelola-pt-smart-raih-peringkat-hijau-dalam-penilaian-proper/ HTTP/1.1" 200 51346 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.351 0.355 0.935 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:36 +0000] "GET /pt-smart-tbk-kembangkan-unsur-unsur-program-pencegahan-kebakaran-yang-berhasil-dilaksanakannya-pada-tahun-2017 HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.225 0.225 0.225 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:36 +0000] "GET /pt-smart-tbk-kembangkan-unsur-unsur-program-pencegahan-kebakaran-yang-berhasil-dilaksanakannya-pada-tahun-2017/ HTTP/1.1" 200 51437 "https://www.smart-tbk.com/pt-smart-tbk-kembangkan-unsur-unsur-program-pencegahan-kebakaran-yang-berhasil-dilaksanakannya-pada-tahun-2017" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.024 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:35 +0000] "GET /pt-smart-tbk-kembangkan-unsur-unsur-program-pencegahan-kebakaran-yang-berhasil-dilaksanakannya-pada-tahun-2017 HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.204 0.204 0.204 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:35 +0000] "GET /pt-smart-tbk-kembangkan-unsur-unsur-program-pencegahan-kebakaran-yang-berhasil-dilaksanakannya-pada-tahun-2017/ HTTP/1.1" 200 51437 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.366 0.370 0.370 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:34 +0000] "GET /pt-smart-tbk-kembangkan-unsur-unsur-program-pencegahan-kebakaran-yang-berhasil-dilaksanakannya-pada-tahun-2017/ HTTP/1.1" 200 51437 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.368 0.372 0.568 MISS 0 NC:000000 UP:-
+‮
+2001:448a:2002:b573:1c5b:a57c:f431:83aa www.smart-tbk.com - [06/Oct/2022:04:34:34 +0000] "GET /wp-content/uploads/2020/11/seed-to-shelves-768x510.jpg HTTP/2.0" 200 115671 "https://www.smart-tbk.com/minyak-sawit-bahan-pangan-penting-untuk-memerangi-kelaparan-global/" "Mozilla/5.0 (Linux; Android 10; CPH2137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.011 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:33 +0000] "GET /filma-dan-palmboom-diluncurkan-kembali-produk-dengan-formula-lebih-baik-dan-kemasan-baru HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.243 0.243 0.243 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:33 +0000] "GET /filma-dan-palmboom-diluncurkan-kembali-produk-dengan-formula-lebih-baik-dan-kemasan-baru/ HTTP/1.1" 200 51342 "https://www.smart-tbk.com/filma-dan-palmboom-diluncurkan-kembali-produk-dengan-formula-lebih-baik-dan-kemasan-baru" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.239 HIT 0 NC:000000 UP:-
+‮
+2001:448a:2002:b573:1c5b:a57c:f431:83aa www.smart-tbk.com - [06/Oct/2022:04:34:33 +0000] "GET /wp-content/uploads/2020/11/hungry-and-vulnerable-equals-768x272.jpg HTTP/2.0" 200 43993 "https://www.smart-tbk.com/minyak-sawit-bahan-pangan-penting-untuk-memerangi-kelaparan-global/" "Mozilla/5.0 (Linux; Android 10; CPH2137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.001 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:32 +0000] "GET /filma-dan-palmboom-diluncurkan-kembali-produk-dengan-formula-lebih-baik-dan-kemasan-baru HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.283 0.283 0.283 MISS 0 NC:000000 UP:-
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:32 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=31745&action=postviews&_=1665030870533 HTTP/2.0" 200 6 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | 0.497 0.497 0.497 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:32 +0000] "GET /filma-dan-palmboom-diluncurkan-kembali-produk-dengan-formula-lebih-baik-dan-kemasan-baru/ HTTP/1.1" 200 51344 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.377 0.377 0.529 EXPIRED 0 NC:000000 UP:-
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:32 +0000] "GET /wp-content/uploads/2017/05/10-Products-cover-image.png HTTP/2.0" 200 1078319 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.141 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2017/03/faq-edit.jpg HTTP/2.0" 200 118667 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2017/07/Biofuel-Icon.jpg HTTP/2.0" 200 99670 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/01/Blogs-fn-1.jpg HTTP/2.0" 200 847439 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_times_grey.svg HTTP/2.0" 200 298 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/internship.png HTTP/2.0" 200 9160 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/scholarship.png HTTP/2.0" 200 8321 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/graduates-pro.png HTTP/2.0" 200 8901 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/faq-palm.png HTTP/2.0" 200 1862 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/support-palm.png HTTP/2.0" 200 6506 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/prospective-suppliers.png HTTP/2.0" 200 7940 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/financial-highlights.png HTTP/2.0" 200 1734 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/sgx-fillings.png HTTP/2.0" 200 8352 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/shareholder-information.png HTTP/2.0" 200 11465 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/publications.png HTTP/2.0" 200 6532 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/gallery.png HTTP/2.0" 200 7632 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/meet-our-experts.png HTTP/2.0" 200 8063 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/blogs.png HTTP/2.0" 200 6506 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/press-releases.png HTTP/2.0" 200 6697 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/food-nutrition-innovation.png HTTP/2.0" 200 2933 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/biofuel.png HTTP/2.0" 200 7152 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/oleochemicals.png HTTP/2.0" 200 8088 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/food-services.png HTTP/2.0" 200 2555 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/consumer-products.png HTTP/2.0" 200 2601 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/sustainability-report.png HTTP/2.0" 200 5803 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/arial.woff HTTP/2.0" 200 525872 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.248 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/arial-bold.woff HTTP/2.0" 200 499908 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.248 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/tahoma-bold.woff HTTP/2.0" 200 431140 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.236 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/certification.png HTTP/2.0" 200 6709 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.034 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/responsible-production.png HTTP/2.0" 200 7614 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.034 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/responsible-sourcing.png HTTP/2.0" 200 8133 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.034 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/human-rights-labour.png HTTP/2.0" 200 2266 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.034 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/partnership-membership.png HTTP/2.0" 200 7732 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.034 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/comm-engagement.png HTTP/2.0" 200 8206 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.034 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/climate-change.png HTTP/2.0" 200 6537 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.069 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/sustainability-icon.png HTTP/2.0" 200 1823 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.069 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/Group-3581.png HTTP/2.0" 200 6376 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.069 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/Group-912.png HTTP/2.0" 200 6888 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.069 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/Foundation.png HTTP/2.0" 200 4030 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.069 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/2.0" 200 77160 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/plugins/font-awesome/css/font-awesome.min.css" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.126 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/tahoma.woff HTTP/2.0" 200 97220 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.126 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/Group-3402-150x150-1.png HTTP/2.0" 200 9647 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/uploads/2021/09/SINARMAS-ICON-PUTIH-9.png HTTP/2.0" 200 1872 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.028 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_chevron_down.svg HTTP/2.0" 200 224 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.028 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_times.svg HTTP/2.0" 200 288 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.028 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/img/icon-menu/icn-menu-br.svg HTTP/2.0" 200 106 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.037 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/img/smart-logo.svg HTTP/2.0" 200 6446 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.047 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-includes/js/wp-emoji-release.min.js?ver=6.0.2 HTTP/2.0" 200 4583 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /filma-dan-palmboom-diluncurkan-kembali-produk-dengan-formula-lebih-baik-dan-kemasan-baru/ HTTP/1.1" 200 51342 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.388 0.391 0.825 MISS 0 NC:000000 UP:-
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/js/script.js?v2 HTTP/2.0" 200 7689 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/wow.min.js HTTP/2.0" 200 2556 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/modernizr.js HTTP/2.0" 200 5885 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/fancybox/jquery.fancybox3.2.min.js HTTP/2.0" 200 18808 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/chartjs/Chart.min.js HTTP/2.0" 200 50289 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/OwlCarousel2/owl.carousel.min.js HTTP/2.0" 200 11036 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/bootstrap-4.5.0/js/bootstrap.min.js HTTP/2.0" 200 14123 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/popper.min.js HTTP/2.0" 200 8465 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/jquery-3.6.0.min.js HTTP/2.0" 200 30113 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=2.0.3 HTTP/2.0" 200 5526 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=2.10.4 HTTP/2.0" 200 302 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.3 HTTP/2.0" 200 440 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000100 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0 HTTP/2.0" 200 6849 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9 HTTP/2.0" 200 2349 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.2.6 HTTP/2.0" 200 30831 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/wpupper-share-buttons/build/front.js?ver=3.42 HTTP/2.0" 200 4479 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68 HTTP/2.0" 200 104 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.7.0 HTTP/2.0" 200 3471 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3 HTTP/2.0" 200 3687 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000100 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:31 +0000] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3 HTTP/2.0" 200 2794 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000100 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/css/style.css?v3.1 HTTP/2.0" 200 24033 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/css/common.css?v1 HTTP/2.0" 200 512 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/css/animate.css HTTP/2.0" 200 4345 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/fancybox/jquery.fancybox3.2.min.css HTTP/2.0" 200 2908 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/slide-anything/owl-carousel/sa-owl-theme.css?ver=2.0 HTTP/2.0" 200 1912 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/aos.css HTTP/2.0" 200 1538 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/OwlCarousel2/assets/owl.carousel.min.css HTTP/2.0" 200 912 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/bootstrap-4.5.0/css/bootstrap.css HTTP/2.0" 200 22824 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/font-awesome/css/font-awesome.min.css HTTP/2.0" 200 6643 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/normalize.min.css HTTP/2.0" 200 760 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-includes/js/utils.min.js?ver=6.0.2 HTTP/2.0" 200 766 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/simple-download-monitor/js/sdm_wp_scripts.js?ver=6.0.2 HTTP/2.0" 200 998 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/mailchimp//js/datepicker.js?ver=6.0.2 HTTP/2.0" 200 18357 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.1 HTTP/2.0" 200 6615 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/mailchimp//js/mailchimp.js?ver=1.5.7 HTTP/2.0" 200 451 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0 HTTP/2.0" 200 5693 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7 HTTP/2.0" 200 1113 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 HTTP/2.0" 200 3989 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.6.0 HTTP/2.0" 200 30119 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/wpglobus/includes/css/wpglobus.css?ver=2.10.4 HTTP/2.0" 200 402 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/cf7-conditional-fields/style.css?ver=2.2.6 HTTP/2.0" 200 459 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/tablepress-combined.min.css?ver=31 HTTP/2.0" 200 2196 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.1 HTTP/2.0" 200 80 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/youtube-embed/css/main.min.css?ver=5.2.3 HTTP/2.0" 200 98 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/wpupper-share-buttons/build/style.min.css?ver=1587969739 HTTP/2.0" 200 6713 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/jquery-collapse-o-matic/css/light_style.css?ver=1.6 HTTP/2.0" 200 284 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/jquery-collapse-o-matic/css/core_style.css?ver=1.0 HTTP/2.0" 200 188 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.0.3 HTTP/2.0" 200 2842 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3 HTTP/2.0" 200 849 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000100 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-includes/css/dist/block-library/style.min.css?ver=6.0.2 HTTP/2.0" 200 10776 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/simple-download-monitor/css/sdm_wp_styles.css?ver=6.0.2 HTTP/2.0" 200 2507 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 293 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:30 +0000] "GET /wp-content/plugins/mailchimp//css/flick/flick.css?ver=6.0.2 HTTP/2.0" 200 3758 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:29 +0000] "GET /smart-dukung-masa-depan-pertanian-dengan-memberikan-hampir-1000-beasiswa-selama-10-tahun-terakhir-di-indonesia HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.227 0.227 0.227 MISS 0 NC:000000 UP:-
+‮
+114.79.46.22 www.smart-tbk.com - [06/Oct/2022:04:34:29 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=31745&action=postviews&_=1665030864149 HTTP/2.0" 200 6 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; 21121119SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36" | TLSv1.3 | 0.349 0.349 0.350 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:29 +0000] "GET /smart-dukung-masa-depan-pertanian-dengan-memberikan-hampir-1000-beasiswa-selama-10-tahun-terakhir-di-indonesia/ HTTP/1.1" 200 51444 "https://www.smart-tbk.com/smart-dukung-masa-depan-pertanian-dengan-memberikan-hampir-1000-beasiswa-selama-10-tahun-terakhir-di-indonesia" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.025 HIT 0 NC:000000 UP:-
+‮
+120.188.92.41 www.smart-tbk.com - [06/Oct/2022:04:34:29 +0000] "GET /biofuel-sumber-energi-alternatif/ HTTP/2.0" 200 43902 "https://www.google.com/" "Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:29 +0000] "GET /smart-dukung-masa-depan-pertanian-dengan-memberikan-hampir-1000-beasiswa-selama-10-tahun-terakhir-di-indonesia HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.206 0.206 0.206 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:28 +0000] "GET /smart-dukung-masa-depan-pertanian-dengan-memberikan-hampir-1000-beasiswa-selama-10-tahun-terakhir-di-indonesia/ HTTP/1.1" 200 51444 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.409 0.412 0.412 MISS 0 NC:000000 UP:-
+‮
+2001:448a:2002:b573:1c5b:a57c:f431:83aa www.smart-tbk.com - [06/Oct/2022:04:34:28 +0000] "GET /wp-content/uploads/2020/11/1_t9ZbRWozHAwWapXqCOwj4Q-768x512.jpeg HTTP/2.0" 200 52760 "https://www.smart-tbk.com/minyak-sawit-bahan-pangan-penting-untuk-memerangi-kelaparan-global/" "Mozilla/5.0 (Linux; Android 10; CPH2137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.013 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:27 +0000] "GET /smart-dukung-masa-depan-pertanian-dengan-memberikan-hampir-1000-beasiswa-selama-10-tahun-terakhir-di-indonesia/ HTTP/1.1" 200 51444 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.351 0.355 0.555 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:26 +0000] "GET /gar-bagian-dari-perusahaan-konsorsium-indonesia-menandatangani-dua-mou-dengan-cirad-mendukung-pembangunan-perkebunan-berkelanjutan-dengan-lda HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.208 0.208 0.208 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:26 +0000] "GET /gar-bagian-dari-perusahaan-konsorsium-indonesia-menandatangani-dua-mou-dengan-cirad-mendukung-pembangunan-perkebunan-berkelanjutan-dengan-lda/ HTTP/1.1" 200 51522 "https://www.smart-tbk.com/gar-bagian-dari-perusahaan-konsorsium-indonesia-menandatangani-dua-mou-dengan-cirad-mendukung-pembangunan-perkebunan-berkelanjutan-dengan-lda" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.026 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:26 +0000] "GET /gar-bagian-dari-perusahaan-konsorsium-indonesia-menandatangani-dua-mou-dengan-cirad-mendukung-pembangunan-perkebunan-berkelanjutan-dengan-lda HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.248 0.248 0.248 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:25 +0000] "GET /gar-bagian-dari-perusahaan-konsorsium-indonesia-menandatangani-dua-mou-dengan-cirad-mendukung-pembangunan-perkebunan-berkelanjutan-dengan-lda/ HTTP/1.1" 200 51521 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.355 0.358 0.504 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:25 +0000] "GET /gar-bagian-dari-perusahaan-konsorsium-indonesia-menandatangani-dua-mou-dengan-cirad-mendukung-pembangunan-perkebunan-berkelanjutan-dengan-lda/ HTTP/1.1" 200 51522 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.394 0.398 0.890 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:23 +0000] "GET /pt-smart-tbk-bersama-dengan-akademi-pariwisata-majapahit-bekerjasama-dalam-pendidikan-bagi-600-siswanya HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.255 0.255 0.255 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:23 +0000] "GET /pt-smart-tbk-bersama-dengan-akademi-pariwisata-majapahit-bekerjasama-dalam-pendidikan-bagi-600-siswanya/ HTTP/1.1" 200 51405 "https://www.smart-tbk.com/pt-smart-tbk-bersama-dengan-akademi-pariwisata-majapahit-bekerjasama-dalam-pendidikan-bagi-600-siswanya" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.234 HIT 0 NC:000000 UP:-
+‮
+2001:448a:2002:b573:1c5b:a57c:f431:83aa www.smart-tbk.com - [06/Oct/2022:04:34:22 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=154171&action=postviews&_=1665030861822 HTTP/2.0" 200 4 "https://www.smart-tbk.com/minyak-sawit-bahan-pangan-penting-untuk-memerangi-kelaparan-global/" "Mozilla/5.0 (Linux; Android 10; CPH2137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" | TLSv1.3 | 0.382 0.382 0.382 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:22 +0000] "GET /pt-smart-tbk-bersama-dengan-akademi-pariwisata-majapahit-bekerjasama-dalam-pendidikan-bagi-600-siswanya HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.307 0.307 0.307 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:21 +0000] "GET /pt-smart-tbk-bersama-dengan-akademi-pariwisata-majapahit-bekerjasama-dalam-pendidikan-bagi-600-siswanya/ HTTP/1.1" 200 51403 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:21 +0000] "GET /pt-smart-tbk-bersama-dengan-akademi-pariwisata-majapahit-bekerjasama-dalam-pendidikan-bagi-600-siswanya/ HTTP/1.1" 200 51405 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.453 0.456 0.495 MISS 0 NC:000000 UP:-
+‮
+2001:448a:2002:b573:1c5b:a57c:f431:83aa www.smart-tbk.com - [06/Oct/2022:04:34:21 +0000] "GET /minyak-sawit-bahan-pangan-penting-untuk-memerangi-kelaparan-global/ HTTP/2.0" 200 56176 "https://www.google.com/" "Mozilla/5.0 (Linux; Android 10; CPH2137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+2001:448a:2002:b573:1c5b:a57c:f431:83aa www.smart-tbk.com - [06/Oct/2022:04:34:21 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "-" "Mozilla/5.0 (Linux; Android 10; CPH2137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:20 +0000] "GET /material-tanam-baru-berkualitas-unggul-dari-pt-smart-tbk-berpotensi-tingkatkan-produktivitas-minyak-kelapa-sawit-ke-level-tertinggi-di-industri-indonesia HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.230 0.230 0.230 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:20 +0000] "GET /material-tanam-baru-berkualitas-unggul-dari-pt-smart-tbk-berpotensi-tingkatkan-produktivitas-minyak-kelapa-sawit-ke-level-tertinggi-di-industri-indonesia/ HTTP/1.1" 200 51622 "https://www.smart-tbk.com/material-tanam-baru-berkualitas-unggul-dari-pt-smart-tbk-berpotensi-tingkatkan-produktivitas-minyak-kelapa-sawit-ke-level-tertinggi-di-industri-indonesia" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.024 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:20 +0000] "GET /material-tanam-baru-berkualitas-unggul-dari-pt-smart-tbk-berpotensi-tingkatkan-produktivitas-minyak-kelapa-sawit-ke-level-tertinggi-di-industri-indonesia HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.250 0.250 0.251 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:19 +0000] "GET /material-tanam-baru-berkualitas-unggul-dari-pt-smart-tbk-berpotensi-tingkatkan-produktivitas-minyak-kelapa-sawit-ke-level-tertinggi-di-industri-indonesia/ HTTP/1.1" 200 51623 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.425 0.430 0.430 MISS 0 NC:000000 UP:-
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:19 +0000] "GET /favicon.ico HTTP/2.0" 200 15086 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:18 +0000] "GET /material-tanam-baru-berkualitas-unggul-dari-pt-smart-tbk-berpotensi-tingkatkan-produktivitas-minyak-kelapa-sawit-ke-level-tertinggi-di-industri-indonesia/ HTTP/1.1" 200 51622 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.437 0.445 0.877 MISS 0 NC:000000 UP:-
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:17 +0000] "GET /wp-content/uploads/2017/07/biofuel-ID-768x350.jpg HTTP/2.0" 200 28803 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:17 +0000] "GET /pemegang-saham-pt-smart-tbk-sahkan-laporan-tahunan-direksi-tahun-2016 HTTP/1.1" 301 0 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.352 0.352 0.352 MISS 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:16 +0000] "GET /pemegang-saham-pt-smart-tbk-sahkan-laporan-tahunan-direksi-tahun-2016/ HTTP/1.1" 200 51286 "https://www.smart-tbk.com/pemegang-saham-pt-smart-tbk-sahkan-laporan-tahunan-direksi-tahun-2016" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | - - 0.028 HIT 0 NC:000000 UP:-
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:16 +0000] "GET /pemegang-saham-pt-smart-tbk-sahkan-laporan-tahunan-direksi-tahun-2016 HTTP/1.1" 301 0 "-" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.242 0.242 0.242 MISS 0 NC:000000 UP:-
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:16 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/arial-bold.woff HTTP/2.0" 200 98304 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 68.750 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /pemegang-saham-pt-smart-tbk-sahkan-laporan-tahunan-direksi-tahun-2016/ HTTP/1.1" 200 51287 "https://www.smart-tbk.com/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.535 0.542 0.871 EXPIRED 0 NC:000000 UP:-
+‮
+114.79.46.22 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; 21121119SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2022/07/dmpa-programme.jpg HTTP/2.0" 200 380998 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.781 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2022/08/30959744_ML-1.jpg HTTP/2.0" 200 397262 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.781 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2022/09/33488882768_ed6364a89f_k.jpg HTTP/2.0" 200 1595374 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.781 - 0 NC:000000 UP:-DT
+‮
+114.79.46.22 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /biofuel-sumber-energi-alternatif/ HTTP/2.0" 200 54199 "https://www.google.com/" "Mozilla/5.0 (Linux; Android 11; 21121119SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=31745&action=postviews&_=1665030854177 HTTP/2.0" 200 6 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | 0.500 0.500 0.563 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/01/Blogs-fn-1.jpg HTTP/2.0" 200 847439 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.563 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/arial-bold.woff2 HTTP/2.0" 404 0 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | 0.306 0.306 0.473 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/arial-bold.woff HTTP/2.0" 200 499908 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.453 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/arial.woff HTTP/2.0" 200 525872 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.453 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2017/05/10-Products-cover-image.png HTTP/2.0" 200 1078319 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.453 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/tahoma-bold.woff HTTP/2.0" 200 431140 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.399 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-includes/js/wp-emoji-release.min.js?ver=6.0.2 HTTP/2.0" 200 4583 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.379 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/smart-logo-white.svg HTTP/2.0" 200 7477 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.379 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2017/03/faq-edit.jpg HTTP/2.0" 200 118667 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.379 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2017/07/Biofuel-Icon.jpg HTTP/2.0" 200 99670 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.379 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/mail-icn.svg HTTP/2.0" 200 457 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.349 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/in-icn.svg HTTP/2.0" 200 389 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.349 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/tw-icn.svg HTTP/2.0" 200 393 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.349 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/fb-icn.svg HTTP/2.0" 200 576 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.349 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_times_grey.svg HTTP/2.0" 200 298 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.349 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/internship.png HTTP/2.0" 200 9160 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.349 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/scholarship.png HTTP/2.0" 200 8321 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.313 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/graduates-pro.png HTTP/2.0" 200 8901 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/faq-palm.png HTTP/2.0" 200 1862 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/support-palm.png HTTP/2.0" 200 6506 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/prospective-suppliers.png HTTP/2.0" 200 7940 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/financial-highlights.png HTTP/2.0" 200 1734 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/sgx-fillings.png HTTP/2.0" 200 8352 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/shareholder-information.png HTTP/2.0" 200 11465 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/publications.png HTTP/2.0" 200 6532 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/gallery.png HTTP/2.0" 200 7632 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/meet-our-experts.png HTTP/2.0" 200 8063 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/blogs.png HTTP/2.0" 200 6506 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/press-releases.png HTTP/2.0" 200 6697 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/food-nutrition-innovation.png HTTP/2.0" 200 2933 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/biofuel.png HTTP/2.0" 200 7152 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/oleochemicals.png HTTP/2.0" 200 8088 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/food-services.png HTTP/2.0" 200 2555 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/consumer-products.png HTTP/2.0" 200 2601 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/sustainability-report.png HTTP/2.0" 200 5803 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/certification.png HTTP/2.0" 200 6709 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/responsible-production.png HTTP/2.0" 200 7614 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/responsible-sourcing.png HTTP/2.0" 200 8133 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/human-rights-labour.png HTTP/2.0" 200 2266 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/partnership-membership.png HTTP/2.0" 200 7732 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/comm-engagement.png HTTP/2.0" 200 8206 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/climate-change.png HTTP/2.0" 200 6537 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/sustainability-icon.png HTTP/2.0" 200 1823 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/Group-3581.png HTTP/2.0" 200 6376 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/Group-912.png HTTP/2.0" 200 6888 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/Foundation.png HTTP/2.0" 200 4030 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/Group-3402-150x150-1.png HTTP/2.0" 200 9647 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.626 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/uploads/2021/09/SINARMAS-ICON-PUTIH-9.png HTTP/2.0" 200 1872 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_chevron_down.svg HTTP/2.0" 200 224 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_times.svg HTTP/2.0" 200 288 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/icon-menu/icn-menu-br.svg HTTP/2.0" 200 106 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/img/smart-logo.svg HTTP/2.0" 200 6446 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/js/script.js?v2 HTTP/2.0" 200 7689 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/wow.min.js HTTP/2.0" 200 2556 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/modernizr.js HTTP/2.0" 200 5885 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/fancybox/jquery.fancybox3.2.min.js HTTP/2.0" 200 18808 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/chartjs/Chart.min.js HTTP/2.0" 200 50289 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.611 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/2.0" 200 77160 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/plugins/font-awesome/css/font-awesome.min.css" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.248 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:15 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/tahoma.woff HTTP/2.0" 200 97220 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.248 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/js/script.js?v2 HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/jquery-3.6.0.min.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 52.800 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/popper.min.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 52.800 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=2.0.3 HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 52.815 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/modernizr.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.727 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.3 HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 52.826 - 0 NC:000100 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/human-rights-labour.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/biofuel.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_times.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_chevron_down.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/responsible-production.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/scholarship.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2022/02/collecting-sample.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2022/07/dmpa-programme.jpg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/Group-912.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/wow.min.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-includes/js/wp-emoji-release.min.js?ver=6.0.2 HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/blogs.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/bootstrap-4.5.0/js/bootstrap.min.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.750 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/OwlCarousel2/owl.carousel.min.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.727 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/Foundation.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/sustainability-report.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/food-nutrition-innovation.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/shareholder-information.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/2.0" 200 0 "https://www.smart-tbk.com/wp-content/themes/gar-mdi/assets/plugins/font-awesome/css/font-awesome.min.css" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/food-services.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/financial-highlights.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/internship.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/consumer-products.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/press-releases.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_times_grey.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2017/07/Biofuel-Icon.jpg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/partnership-membership.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/comm-engagement.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/in-icn.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/gallery.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/SINARMAS-ICON-PUTIH-9.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/sustainability-icon.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/meet-our-experts.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/certification.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=2.10.4 HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 52.815 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/Group-3402-150x150-1.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2022/03/snowboarder-on-winter.jpg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/oleochemicals.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/climate-change.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/sgx-fillings.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/publications.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/01/Blogs-fn-1.jpg HTTP/2.0" 200 8192 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 67.563 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/fancybox/jquery.fancybox3.2.min.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.727 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/chartjs/Chart.min.js HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.727 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/tw-icn.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2017/05/10-Products-cover-image.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/prospective-suppliers.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/fb-icn.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/graduates-pro.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/responsible-sourcing.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/support-palm.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/Group-3581.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 47.683 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2017/03/faq-edit.jpg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/uploads/2021/09/faq-palm.png HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.886 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/export/mail-icn.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+103.108.22.7 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/img/smart-logo-white.svg HTTP/2.0" 200 0 "https://www.smart-tbk.com/tanya-jawab-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 11; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 46.728 - 0 NC:000000 UP:-DT
+‮
+115.178.207.54 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /pemegang-saham-pt-smart-tbk-sahkan-laporan-tahunan-direksi-tahun-2016/ HTTP/1.1" 200 51286 "https://www.smart-tbk.com/kabar-peristiwa/pers/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)" | TLSv1.2 | 0.447 0.452 0.927 MISS 0 NC:000000 UP:-
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/OwlCarousel2/owl.carousel.min.js HTTP/2.0" 200 11036 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/bootstrap-4.5.0/js/bootstrap.min.js HTTP/2.0" 200 14123 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/popper.min.js HTTP/2.0" 200 8465 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/jquery-3.6.0.min.js HTTP/2.0" 200 30113 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=2.0.3 HTTP/2.0" 200 5526 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=2.10.4 HTTP/2.0" 200 302 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.3 HTTP/2.0" 200 440 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000100 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0 HTTP/2.0" 200 6849 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9 HTTP/2.0" 200 2349 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.2.6 HTTP/2.0" 200 30831 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/wpupper-share-buttons/build/front.js?ver=3.42 HTTP/2.0" 200 4479 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68 HTTP/2.0" 200 104 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.230.27 www.smart-tbk.com - [06/Oct/2022:04:34:14 +0000] "GET /wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.7.0 HTTP/2.0" 200 3471 "https://www.smart-tbk.com/biofuel-sumber-energi-alternatif/" "Mozilla/5.0 (Linux; Android 11; V2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT

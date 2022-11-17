@@ -1,0 +1,599 @@
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:30 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960849485 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.294 0.294 0.294 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:29 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:29 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+69.191.249.214 www.goldenagri.com.sg - [05/Oct/2022:09:07:25 +0000] "GET /investors/ HTTP/2.0" 200 19422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:19 +0000] "GET /about-us HTTP/2.0" 301 0 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.198 0.198 0.198 MISS 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:12 +0000] "GET /about-us HTTP/2.0" 301 0 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.235 0.235 0.235 MISS 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:10 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960829639 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.275 0.275 0.275 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:09 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:09 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+115.178.194.205 www.goldenagri.com.sg - [05/Oct/2022:09:07:09 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0" 200 67 "https://www.goldenagri.com.sg/wp-admin/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.374 0.374 0.375 - 0 NC:200000 UP:-DT
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:07 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960827299 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.274 0.274 0.274 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:07 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:07 +0000] "GET / HTTP/2.0" 200 18928 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+207.46.13.209 www.goldenagri.com.sg - [05/Oct/2022:09:07:06 +0000] "GET /cn/sustainable-palm-oil-2022/ HTTP/2.0" 200 58654 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" | TLSv1.3 | - - 0.400 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:04 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960824227 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.317 0.317 0.318 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+118.200.197.166 goldenagri.com.sg - [05/Oct/2022:09:07:04 +0000] "GET /wp-content/uploads/2021/02/smartbiodesel.pdf HTTP/2.0" 200 8026346 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.478 - 0 NC:000000 UP:-DT
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:03 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:07:03 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36309&action=postviews&_=1664960819553 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/products-service/biofuel/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.242 0.242 0.242 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /wp-content/uploads/2020/12/bioenergy.png HTTP/2.0" 200 197060 "https://www.goldenagri.com.sg/products-service/biofuel/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.016 - 0 NC:000000 UP:-DT
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /wp-content/uploads/2019/03/Info-Biodiesel_Final_EN_sml.jpg HTTP/2.0" 200 278137 "https://www.goldenagri.com.sg/products-service/biofuel/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.016 - 0 NC:000000 UP:-DT
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /wp-content/uploads/2019/04/hrn4.jpg HTTP/2.0" 200 193199 "https://www.goldenagri.com.sg/products-service/biofuel/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.023 - 0 NC:000000 UP:-DT
+‮
+118.200.197.166 goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /wp-content/uploads/2020/12/icn-sup.svg HTTP/2.0" 200 526 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/products-service/biofuel/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /products-service/biofuel/ HTTP/2.0" 200 16373 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:59 +0000] "GET /products-service/biofuel HTTP/2.0" 301 0 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.215 0.215 0.216 MISS 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:57 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960817460 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.315 0.315 0.315 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:57 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:57 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+116.206.31.88 goldenagri.com.sg - [05/Oct/2022:09:06:57 +0000] "GET /wp-content/uploads/2021/01/about-img.png HTTP/2.0" 200 79054 "https://www.smart-tbk.com/" "Mozilla/5.0 (Linux; Android 9; RMX1941) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.73 Mobile Safari/537.36" | TLSv1.3 | - - 0.080 - 0 NC:000000 UP:-DT
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:55 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960814791 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.272 0.272 0.271 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:54 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+118.200.197.166 www.goldenagri.com.sg - [05/Oct/2022:09:06:54 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+118.200.197.166 goldenagri.com.sg - [05/Oct/2022:09:06:54 +0000] "GET / HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.199 0.199 0.199 MISS 0 NC:000000 UP:-
+‮
+66.249.79.179 www.goldenagri.com.sg - [05/Oct/2022:09:06:52 +0000] "GET /palm-oil-refining-process/ HTTP/2.0" 200 51586 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.91 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" | TLSv1.3 | - - 0.216 HIT 0 NC:000000 UP:-
+‮
+182.72.145.197 www.goldenagri.com.sg - [05/Oct/2022:09:06:45 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.11" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+114.122.6.194 www.goldenagri.com.sg - [05/Oct/2022:09:06:43 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36544&action=postviews&_=1664960803218 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/id/work-with-us/" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1" | TLSv1.3 | 0.263 0.263 0.263 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+114.122.6.194 www.goldenagri.com.sg - [05/Oct/2022:09:06:43 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/id/work-with-us/" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+114.122.6.194 www.goldenagri.com.sg - [05/Oct/2022:09:06:43 +0000] "GET /id/work-with-us/ HTTP/2.0" 200 15617 "https://www.google.co.id/" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:30 +0000] "GET /wp-json/contact-form-7/v1/contact-forms/36598/refill HTTP/2.0" 200 2 "https://www.goldenagri.com.sg/contact-us/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.278 0.278 0.279 BYPASS 0 NC:000100 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:30 +0000] "GET /wp-json/contact-form-7/v1/contact-forms/36598/feedback/schema HTTP/2.0" 200 214 "https://www.goldenagri.com.sg/contact-us/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.319 0.319 0.319 BYPASS 0 NC:000100 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:30 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60990&action=postviews&_=1664960789705 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/contact-us/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.345 0.345 0.345 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:29 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/contact-us/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:29 +0000] "GET /contact-us/ HTTP/2.0" 200 16971 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.401 0.402 0.402 BYPASS 0 NC:000100 UP:-
+‮
+108.174.5.112 www.goldenagri.com.sg - [05/Oct/2022:09:06:28 +0000] "GET /how-it-works-oil-palm-trees-replanting-programme/ HTTP/2.0" 200 54933 "-" "LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com)" | TLSv1.3 | - - 0.227 HIT 0 NC:000000 UP:-
+‮
+69.191.249.210 www.goldenagri.com.sg - [05/Oct/2022:09:06:26 +0000] "GET /investors/financial-highlights-reports-presentations/investor-presentations/ HTTP/2.0" 200 18300 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:06:13 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60984&action=postviews&_=1664960772961 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.380 0.380 0.380 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:06:12 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:06:12 +0000] "GET /investors/sgx-filings/ HTTP/2.0" 200 64356 "https://www.goldenagri.com.sg/investors/shareholder-information/dividend/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:06:09 +0000] "GET /contact-us HTTP/2.0" 301 0 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.264 0.264 0.264 BYPASS 0 NC:000100 UP:-
+‮
+3.125.9.23 www.goldenagri.com.sg - [05/Oct/2022:09:06:07 +0000] "GET /investors/financial-highlights-reports-presentations/quarterly-reports/ HTTP/2.0" 200 17244 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+3.125.9.23 www.goldenagri.com.sg - [05/Oct/2022:09:06:06 +0000] "GET /investors/financial-highlights-reports-presentations/quarterly-reports/ HTTP/2.0" 200 17244 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+3.69.47.159 www.goldenagri.com.sg - [05/Oct/2022:09:06:04 +0000] "GET /investors/?EPTypeDesc=Annualreports HTTP/2.0" 200 19445 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+51.222.253.15 www.goldenagri.com.sg - [05/Oct/2022:09:06:03 +0000] "GET /cn/work-with-us/graduates-professionals HTTP/2.0" 301 0 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" | TLSv1.3 | 0.286 0.286 0.286 MISS 0 NC:000000 UP:-
+‮
+3.69.47.159 www.goldenagri.com.sg - [05/Oct/2022:09:06:03 +0000] "GET /investors/?EPTypeDesc=Annualreports HTTP/2.0" 200 19445 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:06:01 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60983&action=postviews&_=1664960761582 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/investors/shareholder-information/dividend/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.300 0.300 0.300 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:06:01 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/shareholder-information/dividend/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:06:01 +0000] "GET /investors/shareholder-information/dividend/ HTTP/2.0" 200 17626 "https://www.goldenagri.com.sg/investors/shareholder-information/shareholder-meetings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:06:01 +0000] "GET /investors/shareholder-information/dividend HTTP/2.0" 301 0 "https://www.goldenagri.com.sg/investors/shareholder-information/shareholder-meetings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.303 0.303 0.304 MISS 0 NC:000000 UP:-
+‮
+118.200.197.166 goldenagri.com.sg - [05/Oct/2022:09:06:00 +0000] "GET /wp-content/uploads/2019/01/The-different-parts-of-palm-oil_factsheet_final.pdf HTTP/2.0" 200 5866427 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.309 - 0 NC:000000 UP:-DT
+‮
+3.75.180.78 www.goldenagri.com.sg - [05/Oct/2022:09:05:59 +0000] "GET /investors/financial-highlights-reports-presentations/investor-presentations/ HTTP/2.0" 200 18300 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+118.200.197.166 goldenagri.com.sg - [05/Oct/2022:09:05:59 +0000] "GET /favicon.ico HTTP/2.0" 200 15086 "https://goldenagri.com.sg/wp-content/uploads/2019/01/The-different-parts-of-palm-oil_factsheet_final.pdf" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+3.75.180.78 www.goldenagri.com.sg - [05/Oct/2022:09:05:59 +0000] "GET /investors/financial-highlights-reports-presentations/investor-presentations/ HTTP/2.0" 200 18300 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+69.191.249.220 www.goldenagri.com.sg - [05/Oct/2022:09:05:51 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+69.191.211.219 www.goldenagri.com.sg - [05/Oct/2022:09:05:51 +0000] "GET /about-us/our-leaderships/ HTTP/2.0" 200 21152 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+3.96.138.189 www.goldenagri.com.sg - [05/Oct/2022:09:05:48 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36375&action=postviews&_=1664960747903 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/news-events/press-releases/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | 0.269 0.269 0.269 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+3.96.138.189 www.goldenagri.com.sg - [05/Oct/2022:09:05:47 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.002 HIT 0 NC:000000 UP:-
+‮
+3.72.111.223 www.goldenagri.com.sg - [05/Oct/2022:09:05:44 +0000] "GET /sustainability/sustainability-report/ HTTP/2.0" 200 19952 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:41 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36600&action=postviews&_=1664960741409 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/investors/shareholder-information/shareholder-meetings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.333 0.333 0.333 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:41 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/shareholder-information/shareholder-meetings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:41 +0000] "GET /investors/shareholder-information/shareholder-meetings/ HTTP/2.0" 200 17182 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/investor-presentations/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.448 0.450 0.450 MISS 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:40 +0000] "GET /investors/shareholder-information/shareholder-meetings HTTP/2.0" 301 0 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/investor-presentations/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.309 0.309 0.309 MISS 0 NC:000000 UP:-
+‮
+114.122.6.194 goldenagri.com.sg - [05/Oct/2022:09:05:39 +0000] "GET /wp-content/uploads/2021/01/about-img.png HTTP/2.0" 200 79054 "https://www.smart-tbk.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1" | TLSv1.3 | - - 0.025 - 0 NC:000000 UP:-DT
+‮
+3.72.111.223 www.goldenagri.com.sg - [05/Oct/2022:09:05:38 +0000] "GET /sustainability/sustainability-report/ HTTP/2.0" 200 19952 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/79.0.3945.130 Chrome/79.0.3945.130 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:32 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=63450&action=postviews&_=1664960732180 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/investor-presentations/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.318 0.318 0.318 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:32 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/investor-presentations/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:32 +0000] "GET /investors/financial-highlights-reports-presentations/investor-presentations/ HTTP/2.0" 200 18300 "https://www.goldenagri.com.sg/investors/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:05:29 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960729523 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.290 0.290 0.290 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:05:29 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:05:28 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+54.202.43.196 www.goldenagri.com.sg - [05/Oct/2022:09:05:27 +0000] "GET /feed/ HTTP/2.0" 200 105494 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" | TLSv1.3 | - - 0.208 HIT 0 NC:000000 UP:-
+‮
+115.178.194.205 www.goldenagri.com.sg - [05/Oct/2022:09:05:26 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0" 200 67 "https://www.goldenagri.com.sg/wp-admin/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.319 0.319 0.320 - 0 NC:200000 UP:-DT
+‮
+54.202.43.196 goldenagri.com.sg - [05/Oct/2022:09:05:26 +0000] "GET /feed/ HTTP/1.1" 301 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" | TLSv1.3 | 0.260 0.260 0.260 MISS 0 NC:000000 UP:-
+‮
+35.197.184.115 www.goldenagri.com.sg - [05/Oct/2022:09:05:24 +0000] "GET /id/products-service/seeds/ HTTP/2.0" 200 16495 "http://damimas.com/new/web/" "Mozilla/5.0 (compatible; MonsidoUptime/1.0; +http://monsido.com/uptime.html; info@monsido.com)" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:05:21 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/metric-regular.woff HTTP/2.0" 200 34044 "https://www.goldenagri.com.sg/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:05:17 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60963&action=postviews&_=1664960716112 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | 0.353 0.353 0.353 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:15 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36425&action=postviews&_=1664960715289 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/investors/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.388 0.388 0.388 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:15 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:05:15 +0000] "GET /investors/ HTTP/2.0" 200 19422 "https://www.goldenagri.com.sg/investors/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:05:14 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:05:14 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+69.191.211.219 www.goldenagri.com.sg - [05/Oct/2022:09:05:11 +0000] "GET /about-us/our-leaderships/ HTTP/2.0" 200 21152 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+69.191.249.220 www.goldenagri.com.sg - [05/Oct/2022:09:05:06 +0000] "GET /investors/financial-highlights-reports-presentations/quarterly-reports/ HTTP/2.0" 200 17244 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/detergent.jpg HTTP/2.0" 200 8484 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/biodiesel.jpg HTTP/2.0" 200 18061 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/shampoo.jpg HTTP/2.0" 200 6047 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/instant-noodle.jpg HTTP/2.0" 200 7806 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.025 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/butter.jpg HTTP/2.0" 200 6824 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.025 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/fragrant.jpg HTTP/2.0" 200 7336 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.025 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/cookie.jpg HTTP/2.0" 200 10088 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.025 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/lpstick.jpg HTTP/2.0" 200 7399 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.017 - 0 NC:000000 UP:-DT
+‮
+140.213.34.150 goldenagri.com.sg - [05/Oct/2022:09:05:04 +0000] "GET /wp-content/uploads/2017/05/choco.jpg HTTP/2.0" 200 12390 "https://www.smart-tbk.com/10-produk-luar-biasa-berkat-minyak-kelapa-sawit/" "Mozilla/5.0 (Linux; Android 9; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36" | TLSv1.3 | - - 0.003 - 0 NC:000000 UP:-DT
+‮
+158.140.131.122 www.goldenagri.com.sg - [05/Oct/2022:09:04:45 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+210.104.210.11 www.goldenagri.com.sg - [05/Oct/2022:09:04:36 +0000] "GET /cn/golden-agri-resources-gar-rebrands-its-animal-feed-supplements-as-gonutri-in-spain/ HTTP/2.0" 200 54019 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.099 HIT 0 NC:000000 UP:-
+‮
+182.72.145.197 www.goldenagri.com.sg - [05/Oct/2022:09:04:25 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.11" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+51.222.253.5 www.goldenagri.com.sg - [05/Oct/2022:09:04:19 +0000] "GET /cn/work-with-us HTTP/2.0" 301 0 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" | TLSv1.3 | 0.208 0.208 0.208 MISS 0 NC:000000 UP:-
+‮
+2600:4041:54c6:e600:501e:e1b5:e5a5:4695 www.goldenagri.com.sg - [05/Oct/2022:09:04:13 +0000] "GET /feed/ HTTP/2.0" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+35.197.184.115 www.goldenagri.com.sg - [05/Oct/2022:09:04:05 +0000] "GET / HTTP/2.0" 200 18928 "https://goldenagri.com.sg/" "Mozilla/5.0 (compatible; MonsidoUptime/1.0; +http://monsido.com/uptime.html; info@monsido.com)" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+35.197.184.115 goldenagri.com.sg - [05/Oct/2022:09:04:05 +0000] "GET / HTTP/1.1" 301 0 "-" "Mozilla/5.0 (compatible; MonsidoUptime/1.0; +http://monsido.com/uptime.html; info@monsido.com)" | TLSv1.2 | 0.222 0.222 0.223 MISS 0 NC:000000 UP:-
+‮
+34.136.184.255 goldenagri.com.sg - [05/Oct/2022:09:03:48 +0000] "GET /wp-content/uploads/2017/07/310517-Mou-Signing-Sinarmas-dan-SNV-Noveradika-4-250x150.jpg HTTP/1.1" 200 10414 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+135.125.11.160 www.goldenagri.com.sg - [05/Oct/2022:09:03:40 +0000] "GET /feed/ HTTP/2.0" 200 105494 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.459.158 Safari/537.36" | TLSv1.3 | - - 0.162 HIT 0 NC:000000 UP:-
+‮
+135.125.11.160 goldenagri.com.sg - [05/Oct/2022:09:03:39 +0000] "GET /feed HTTP/1.1" 301 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.459.158 Safari/537.36" | TLSv1.2 | 0.304 0.304 0.304 MISS 0 NC:000000 UP:-
+‮
+69.191.249.211 www.goldenagri.com.sg - [05/Oct/2022:09:03:32 +0000] "GET /investors/ HTTP/2.0" 200 19422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+115.178.194.205 www.goldenagri.com.sg - [05/Oct/2022:09:03:26 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0" 200 65 "https://www.goldenagri.com.sg/wp-admin/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.327 0.327 0.327 - 0 NC:200000 UP:-DT
+‮
+182.72.145.197 www.goldenagri.com.sg - [05/Oct/2022:09:02:59 +0000] "GET /investors/sgx-filings/ HTTP/2.0" 200 64356 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.11" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:43 +0000] "GET /wp-content/uploads/2022/09/33488882768_ed6364a89f_k.jpg HTTP/2.0" 200 1595374 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.944 - 0 NC:000000 UP:-DT
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:43 +0000] "GET /wp-content/uploads/2019/04/graph.jpg HTTP/2.0" 200 206434 "https://www.goldenagri.com.sg/harnessing-biogas-in-palm-oil-production/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.014 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:43 +0000] "GET /wp-content/uploads/2020/12/slide1-products.jpg HTTP/2.0" 200 993855 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.863 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:43 +0000] "GET /wp-content/uploads/2021/01/GAR-Profile-photo_Gotz-Martin-2-scaled.jpg HTTP/2.0" 200 464719 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.768 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:43 +0000] "GET /wp-content/uploads/2020/12/GAR-cn-building.jpg HTTP/2.0" 200 584735 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.684 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/ISoc-1.png HTTP/2.0" 200 284734 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.500 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/alex-kurniawan.jpg HTTP/2.0" 200 361189 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.471 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/slide2-m-workwus.jpg HTTP/2.0" 200 104349 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.373 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/filma-new-pack.png HTTP/2.0" 200 175854 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.372 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/ic_float8.png HTTP/2.0" 200 4842 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/js/script.js?v1 HTTP/2.0" 200 11971 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0 HTTP/2.0" 200 7967 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3 HTTP/2.0" 200 4386 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000100 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/modernizr.js HTTP/2.0" 200 6686 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3503.png HTTP/2.0" 200 6506 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/plugins/simple-download-monitor/js/sdm_wp_scripts.js?ver=6.0.2 HTTP/2.0" 200 1223 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9 HTTP/2.0" 200 2647 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3453.png HTTP/2.0" 200 8133 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/popper.min.js HTTP/2.0" 200 10689 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/normalize.min.css HTTP/2.0" 200 939 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=2.10.4 HTTP/2.0" 200 363 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3482.png HTTP/2.0" 200 7059 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3372.png HTTP/2.0" 200 8088 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/SINARMAS-ICON-PUTIH-10.png HTTP/2.0" 200 1734 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3581.png HTTP/2.0" 200 6376 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/ic_float4.png HTTP/2.0" 200 4854 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/OwlCarousel2/assets/owl.carousel.min.css HTTP/2.0" 200 1145 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7 HTTP/2.0" 200 1230 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/img/gar-logo.svg HTTP/2.0" 200 17633 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/ic_float2.png HTTP/2.0" 200 556 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3504.png HTTP/2.0" 200 9160 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/ICON-7.png HTTP/2.0" 200 2868 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3439.png HTTP/2.0" 200 7732 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3485.png HTTP/2.0" 200 6697 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.0.3 HTTP/2.0" 200 3824 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/ICON-5.png HTTP/2.0" 200 2933 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /sustainability-dashboard/assets/css/dataTables/dataTables.bootstrap.css HTTP/2.0" 200 2231 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3462.png HTTP/2.0" 200 5803 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/img/ic_chevron_down.svg HTTP/2.0" 200 263 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/uploads/2020/12/Group-3461.png HTTP/2.0" 200 6709 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/bootstrap-4.5.0/css/bootstrap.css HTTP/2.0" 200 35729 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.001 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.1 HTTP/2.0" 200 7737 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.6.0 HTTP/2.0" 200 36052 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 HTTP/2.0" 200 4565 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/fancybox/jquery.fancybox3.2.min.css HTTP/2.0" 200 3701 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.001 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-content/plugins/email-before-download/public/css/email-before-download-public.css?ver=6.9.6 HTTP/2.0" 200 116 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:42 +0000] "GET /wp-includes/css/dist/block-library/style.min.css?ver=6.0.2 HTTP/2.0" 200 15139 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:41 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+195.93.211.65 www.goldenagri.com.sg - [05/Oct/2022:09:02:41 +0000] "GET / HTTP/2.0" 200 18928 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:39 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=63438&action=postviews&_=1664960558915 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/quarterly-reports/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | 0.267 0.267 0.267 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:38 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/quarterly-reports/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:38 +0000] "GET /investors/financial-highlights-reports-presentations/quarterly-reports/ HTTP/2.0" 200 17244 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:32 +0000] "GET /wp-content/uploads/2019/04/hrn3.jpg HTTP/2.0" 200 390150 "https://www.goldenagri.com.sg/harnessing-biogas-in-palm-oil-production/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.018 - 0 NC:000000 UP:-DT
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:32 +0000] "GET /wp-content/uploads/2022/04/operation-review-2.png HTTP/2.0" 200 217345 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/annual-reports/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.722 - 0 NC:000000 UP:-DT
+‮
+18.214.192.90 goldenagri.com.sg - [05/Oct/2022:09:02:31 +0000] "GET /wp-content/uploads/2020/12/icn-sup.svg HTTP/2.0" 200 526 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:31 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=63445&action=postviews&_=1664960550540 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/annual-reports/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | 0.289 0.289 0.289 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:30 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/annual-reports/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:29 +0000] "GET /investors/financial-highlights-reports-presentations/annual-reports/ HTTP/2.0" 200 19134 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:29 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=33100&action=postviews&_=1664960138238 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/harnessing-biogas-in-palm-oil-production/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.351 0.351 0.351 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:28 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/harnessing-biogas-in-palm-oil-production/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:27 +0000] "GET /harnessing-biogas-in-palm-oil-production/ HTTP/2.0" 200 52891 "https://www.goldenagri.com.sg/search/?q=methane%20capture" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:21 +0000] "GET /wp-content/themes/gar-mdi/assets/fonts/tahoma.woff HTTP/2.0" 200 97220 "https://www.goldenagri.com.sg/wp-content/themes/gar-mdi/assets/css/style.css?v3.1" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.250 - 0 NC:000000 UP:-DT
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:20 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=63438&action=postviews&_=1664960540114 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/quarterly-reports/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | 0.307 0.307 0.307 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:20 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60991&action=postviews&_=1664960129381 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/search/?q=methane%20capture" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.363 0.363 0.363 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:20 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/search/?q=methane%20capture" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:19 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/financial-highlights-reports-presentations/quarterly-reports/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:19 +0000] "GET /search/?q=methane%20capture HTTP/2.0" 200 15300 "https://www.goldenagri.com.sg/forest-conservation-determine-protect/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.455 0.460 0.460 MISS 0 NC:000000 UP:-
+‮
+18.214.192.90 www.goldenagri.com.sg - [05/Oct/2022:09:02:19 +0000] "GET /investors/financial-highlights-reports-presentations/quarterly-reports/ HTTP/2.0" 200 17244 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:09:02:19 +0000] "GET /search?q=methane%20capture HTTP/2.0" 301 0 "https://www.goldenagri.com.sg/forest-conservation-determine-protect/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.216 0.216 0.217 MISS 0 NC:000000 UP:-
+‮
+69.191.249.221 www.goldenagri.com.sg - [05/Oct/2022:09:02:17 +0000] "GET /investors/financial-highlights-reports-presentations/investor-presentations/ HTTP/2.0" 200 18300 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+182.72.145.197 www.goldenagri.com.sg - [05/Oct/2022:09:02:02 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.11" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+182.72.145.197 goldenagri.com.sg - [05/Oct/2022:09:02:01 +0000] "GET /newsrooms/press-releases/ HTTP/1.1" 301 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.11" | TLSv1.2 | 0.263 0.263 0.264 MISS 0 NC:000000 UP:-
+‮
+50.17.242.50 www.goldenagri.com.sg - [05/Oct/2022:09:02:00 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36375&action=postviews&_=1664960516439 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/news-events/press-releases/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" | TLSv1.3 | 0.269 0.269 0.269 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+50.17.242.50 www.goldenagri.com.sg - [05/Oct/2022:09:01:58 +0000] "GET /wp-content/themes/gar-mdi/assets/plugins/chartjs/Chart.min.js HTTP/2.0" 200 62531 "https://www.goldenagri.com.sg/news-events/press-releases/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" | TLSv1.3 | - - 0.253 - 0 NC:000000 UP:-DT
+‮
+50.17.242.50 www.goldenagri.com.sg - [05/Oct/2022:09:01:55 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/news-events/press-releases/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+50.17.242.50 www.goldenagri.com.sg - [05/Oct/2022:09:01:55 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+54.146.160.207 goldenagri.com.sg - [05/Oct/2022:09:01:55 +0000] "GET /newsrooms/press-releases/ HTTP/1.1" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" | TLSv1.2 | 0.230 0.230 0.230 MISS 0 NC:000000 UP:-
+‮
+54.146.160.207 goldenagri.com.sg - [05/Oct/2022:09:01:53 +0000] "GET /newsrooms/press-releases/ HTTP/1.1" 301 259 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" | - | 0.012 0.012 0.012 MISS 0 NC:000000 UP:-
+‮
+69.191.249.202 www.goldenagri.com.sg - [05/Oct/2022:09:01:46 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+66.249.71.211 goldenagri.com.sg - [05/Oct/2022:09:01:28 +0000] "GET /wp-content/uploads/2020/04/Rev-Infographic-How-Palm-Oil-keeps-you-clean-06-1024x558.jpg HTTP/1.1" 200 76182 "-" "Googlebot-Image/1.0" | TLSv1.3 | - - 0.058 - 0 NC:000000 UP:-DT
+‮
+115.178.194.205 www.goldenagri.com.sg - [05/Oct/2022:09:01:26 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0" 200 67 "https://www.goldenagri.com.sg/wp-admin/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.379 0.379 0.380 - 0 NC:200000 UP:-DT
+‮
+69.191.249.210 www.goldenagri.com.sg - [05/Oct/2022:09:01:12 +0000] "GET /investors/financial-highlights-reports-presentations/quarterly-reports/ HTTP/2.0" 200 17244 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:01:08 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36425&action=postviews&_=1664960467896 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/investors/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.296 0.296 0.296 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:01:07 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:09:01:07 +0000] "GET /investors/ HTTP/2.0" 200 19422 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+66.249.79.179 www.goldenagri.com.sg - [05/Oct/2022:09:00:53 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=36375&action=postviews&_=1664960400026 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/news-events/press-releases/" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36" | TLSv1.3 | 0.264 0.264 0.264 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+66.249.79.179 www.goldenagri.com.sg - [05/Oct/2022:09:00:44 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+66.249.71.211 goldenagri.com.sg - [05/Oct/2022:09:00:43 +0000] "GET /category/press-releases/ HTTP/1.1" 301 0 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" | TLSv1.3 | 0.195 0.195 0.195 MISS 0 NC:000000 UP:-
+‮
+66.96.249.130 goldenagri.com.sg - [05/Oct/2022:09:00:40 +0000] "POST /autodiscover/autodiscover.xml HTTP/1.1" 404 146 "-" "Microsoft Office/15.0 (Windows NT 10.0; Microsoft Outlook 15.0.5485; Pro)" | TLSv1.2 | - - 0.001 - 0 NC:000000 UP:-DT
+‮
+216.245.221.87 www.goldenagri.com.sg - [05/Oct/2022:09:00:26 +0000] "HEAD / HTTP/2.0" 200 0 "https://www.goldenagri.com.sg" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)" | TLSv1.3 | 0.236 0.236 0.237 - 0 NC:000000 UP:-DT
+‮
+17.121.115.93 www.goldenagri.com.sg - [05/Oct/2022:09:00:26 +0000] "GET /id/sustainable-development-goals-1/ HTTP/2.0" 200 53712 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)" | TLSv1.3 | 0.460 0.463 0.463 MISS 0 NC:000000 UP:-
+‮
+182.1.74.181 www.goldenagri.com.sg - [05/Oct/2022:09:00:24 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/sustainability/sustainability-report/" "Mozilla/5.0 (Linux; Android 9; WP6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+182.1.74.181 www.goldenagri.com.sg - [05/Oct/2022:09:00:24 +0000] "GET /sustainability/sustainability-report/ HTTP/2.0" 200 19952 "android-app://com.linkedin.android" "Mozilla/5.0 (Linux; Android 9; WP6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+34.116.74.197 www.goldenagri.com.sg - [05/Oct/2022:09:00:18 +0000] "GET /id/products-service/seeds/ HTTP/2.0" 200 16495 "http://damimas.com/new/web/" "Mozilla/5.0 (compatible; MonsidoUptime/1.0; +http://monsido.com/uptime.html; info@monsido.com)" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+114.111.32.218 www.goldenagri.com.sg - [05/Oct/2022:09:00:07 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=3470&action=postviews&_=1664960406664 HTTP/2.0" 200 4 "https://www.goldenagri.com.sg/forest-conservation-determine-protect/" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Yeti/1.1; +https://naver.me/spd) Chrome/101.0.4951.0 Safari/537.36" | TLSv1.3 | 0.390 0.390 0.390 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+69.191.249.214 www.goldenagri.com.sg - [05/Oct/2022:09:00:06 +0000] "GET /investors/sgx-filings/ HTTP/2.0" 200 64356 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.266 HIT 0 NC:000000 UP:-
+‮
+66.249.79.179 www.goldenagri.com.sg - [05/Oct/2022:09:00:06 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=2502&action=postviews&_=1664064000000 HTTP/2.0" 200 3 "https://www.goldenagri.com.sg/cn/stronger-downstream-business-drives-golden-agri-ebitda-higher-in-the-last-quarter-of-2015-despite-weaker-cpo-prices/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.125 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" | TLSv1.3 | 0.303 0.303 0.310 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+114.111.32.218 www.goldenagri.com.sg - [05/Oct/2022:09:00:06 +0000] "GET /forest-conservation-determine-protect/ HTTP/2.0" 200 53420 "-" "Mozilla/5.0 (compatible; Yeti/1.1; +https://naver.me/spd)" | TLSv1.3 | - - 0.103 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 goldenagri.com.sg - [05/Oct/2022:09:00:00 +0000] "GET /category/in-the-news HTTP/1.1" 301 254 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | - | 0.007 0.007 0.008 MISS 0 NC:000000 UP:-
+‮
+51.222.253.14 www.goldenagri.com.sg - [05/Oct/2022:08:59:56 +0000] "GET /cn/sustainability/responsible-sourcing/supply-chain-map HTTP/2.0" 301 0 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" | TLSv1.3 | 0.199 0.199 0.200 MISS 0 NC:000000 UP:-
+‮
+103.131.71.180 goldenagri.com.sg - [05/Oct/2022:08:59:51 +0000] "GET /wp-content/uploads/2019/04/GAR-AR-2018_final_LowRes.pdf HTTP/1.1" 304 0 "-" "Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)" | TLSv1.2 | - - 0.000 - 0 NC:000000 UP:-DT
+‮
+136.243.228.178 www.goldenagri.com.sg - [05/Oct/2022:08:59:47 +0000] "GET /cn/feed/ HTTP/2.0" 200 120090 "-" "Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)" | TLSv1.3 | - - 0.340 HIT 0 NC:000000 UP:-
+‮
+103.131.71.69 www.goldenagri.com.sg - [05/Oct/2022:08:59:46 +0000] "GET /robots.txt HTTP/2.0" 200 97 "-" "Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+103.131.71.69 goldenagri.com.sg - [05/Oct/2022:08:59:45 +0000] "GET /robots.txt HTTP/1.1" 301 0 "-" "Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)" | TLSv1.2 | 0.200 0.200 0.201 MISS 0 NC:000000 UP:-
+‮
+103.131.71.69 goldenagri.com.sg - [05/Oct/2022:08:59:42 +0000] "GET /robots.txt HTTP/1.1" 301 244 "-" "Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)" | - | 0.010 0.010 0.010 MISS 0 NC:000000 UP:-
+‮
+136.243.228.178 www.goldenagri.com.sg - [05/Oct/2022:08:59:32 +0000] "GET /id/comments/feed/ HTTP/2.0" 200 761 "-" "Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+69.191.249.221 www.goldenagri.com.sg - [05/Oct/2022:08:59:30 +0000] "GET /investors/ HTTP/2.0" 200 19422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:08:59:26 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0" 200 67 "https://www.goldenagri.com.sg/wp-admin/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.251 0.251 0.252 - 0 NC:200000 UP:-DT
+‮
+66.249.79.179 www.goldenagri.com.sg - [05/Oct/2022:08:59:24 +0000] "GET /id/feed/ HTTP/2.0" 304 0 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:59:20 +0000] "GET /news-events/ HTTP/2.0" 200 17980 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:59:19 +0000] "GET /newsrooms/ HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.155 0.155 0.156 MISS 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:59:17 +0000] "GET /newsroom/ HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.231 0.231 0.232 MISS 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:08:59:06 +0000] "GET /wp-content/uploads/2022/06/GAR28-30-06-2022-SR2021.pdf HTTP/2.0" 200 13771972 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.302 - 0 NC:000000 UP:-DT
+‮
+66.249.79.181 www.goldenagri.com.sg - [05/Oct/2022:08:59:04 +0000] "GET /cn/stronger-downstream-business-drives-golden-agri-ebitda-higher-in-the-last-quarter-of-2015-despite-weaker-cpo-prices/ HTTP/2.0" 200 55097 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.125 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" | TLSv1.3 | - - 0.211 HIT 0 NC:000000 UP:-
+‮
+34.116.74.197 www.goldenagri.com.sg - [05/Oct/2022:08:59:04 +0000] "GET / HTTP/2.0" 200 18928 "https://goldenagri.com.sg/" "Mozilla/5.0 (compatible; MonsidoUptime/1.0; +http://monsido.com/uptime.html; info@monsido.com)" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+34.116.74.197 goldenagri.com.sg - [05/Oct/2022:08:59:03 +0000] "GET / HTTP/1.1" 301 0 "-" "Mozilla/5.0 (compatible; MonsidoUptime/1.0; +http://monsido.com/uptime.html; info@monsido.com)" | TLSv1.2 | 0.551 0.551 0.551 MISS 0 NC:000000 UP:-
+‮
+35.213.153.2 www.goldenagri.com.sg - [05/Oct/2022:08:59:03 +0000] "POST /wp-cron.php?doing_wp_cron=1664960343.3096721172332763671875 HTTP/2.0" 200 0 "https://www.goldenagri.com.sg/wp-cron.php?doing_wp_cron=1664960343.3096721172332763671875" "WordPress/6.0.2; https://www.goldenagri.com.sg" | TLSv1.3 | 0.257 0.257 0.257 - 0 NC:040000 UP:-DT
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:08:58:54 +0000] "GET /wp-content/uploads/2022/08/GAR33-12-08-2022-Cash-Dividend-Distribution.pdf HTTP/2.0" 200 132961 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.012 - 0 NC:000000 UP:-DT
+‮
+113.211.208.33 www.goldenagri.com.sg - [05/Oct/2022:08:58:53 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+113.211.208.33 www.goldenagri.com.sg - [05/Oct/2022:08:58:53 +0000] "GET / HTTP/2.0" 200 18928 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:08:58:40 +0000] "GET /wp-content/uploads/2022/08/GAR34-12-08-2022-Asset-acquisition-of-disposals-pursuant-to-rule-706A.pdf HTTP/2.0" 200 134150 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.017 - 0 NC:000000 UP:-DT
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:58:40 +0000] "GET /category/in-the-news/ HTTP/2.0" 404 709 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.278 0.278 0.279 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+135.125.11.160 www.goldenagri.com.sg - [05/Oct/2022:08:58:39 +0000] "GET /feed/ HTTP/2.0" 200 105494 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.1519.26 Safari/537.36" | TLSv1.3 | - - 0.183 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 goldenagri.com.sg - [05/Oct/2022:08:58:39 +0000] "GET /category/in-the-news/ HTTP/1.1" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.254 0.254 0.254 MISS 0 NC:000000 UP:-
+‮
+135.125.11.160 goldenagri.com.sg - [05/Oct/2022:08:58:38 +0000] "GET /feed HTTP/1.1" 301 0 "https://www.google.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.1519.26 Safari/537.36" | TLSv1.2 | 0.275 0.275 0.275 MISS 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:08:58:29 +0000] "GET /wp-content/uploads/2022/08/GAR35-31-08-2022-GEFI.pdf HTTP/2.0" 200 126561 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.018 - 0 NC:000000 UP:-DT
+‮
+66.96.249.130 www.goldenagri.com.sg - [05/Oct/2022:08:58:26 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0" 200 67 "https://www.goldenagri.com.sg/wp-admin/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | 0.411 0.411 0.412 - 0 NC:200000 UP:-DT
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:58:20 +0000] "GET /news-events/ HTTP/2.0" 200 17980 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:58:19 +0000] "GET /newsrooms/ HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.204 0.204 0.205 MISS 0 NC:000000 UP:-
+‮
+197.210.226.57 www.goldenagri.com.sg - [05/Oct/2022:08:58:18 +0000] "GET /contact-us/?marker-id=60897 HTTP/2.0" 200 16993 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.353 0.355 0.355 BYPASS 0 NC:000100 UP:-
+‮
+197.210.226.57 www.goldenagri.com.sg - [05/Oct/2022:08:58:18 +0000] "GET /contact-us/?marker-id=60892 HTTP/2.0" 200 16987 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.380 0.381 0.381 BYPASS 0 NC:000100 UP:-
+‮
+197.210.226.57 www.goldenagri.com.sg - [05/Oct/2022:08:58:18 +0000] "GET /contact-us/?marker-id=60893 HTTP/2.0" 200 16994 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.395 0.398 0.398 BYPASS 0 NC:000100 UP:-
+‮
+197.210.226.57 www.goldenagri.com.sg - [05/Oct/2022:08:58:17 +0000] "GET /contact-us?marker-id=60897 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.314 0.314 0.314 BYPASS 0 NC:000100 UP:-
+‮
+197.210.226.57 www.goldenagri.com.sg - [05/Oct/2022:08:58:17 +0000] "GET /contact-us?marker-id=60892 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.284 0.284 0.285 BYPASS 0 NC:000100 UP:-
+‮
+197.210.226.57 www.goldenagri.com.sg - [05/Oct/2022:08:58:17 +0000] "GET /contact-us?marker-id=60893 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.314 0.314 0.314 BYPASS 0 NC:000100 UP:-
+‮
+51.222.253.9 www.goldenagri.com.sg - [05/Oct/2022:08:58:17 +0000] "GET /cn/sustainability/responsible-sourcing/supplier-assessment HTTP/2.0" 301 0 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" | TLSv1.3 | 0.309 0.309 0.310 MISS 0 NC:000000 UP:-
+‮
+65.19.141.114 goldenagri.com.sg - [05/Oct/2022:08:58:16 +0000] "GET /newsroom HTTP/1.1" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.304 0.304 0.304 MISS 0 NC:000000 UP:-
+‮
+197.210.226.57 www.goldenagri.com.sg - [05/Oct/2022:08:58:15 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+66.249.79.179 www.goldenagri.com.sg - [05/Oct/2022:08:58:07 +0000] "GET /news-and-events/blogs/ HTTP/2.0" 200 39855 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+69.191.249.206 www.goldenagri.com.sg - [05/Oct/2022:08:58:04 +0000] "GET /investors/financial-highlights-reports-presentations/investor-presentations/ HTTP/2.0" 200 18300 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:57:58 +0000] "GET /news-events/ HTTP/2.0" 200 17980 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:57:57 +0000] "GET /newsrooms/ HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.140 0.140 0.140 MISS 0 NC:000000 UP:-
+‮
+65.19.141.114 goldenagri.com.sg - [05/Oct/2022:08:57:56 +0000] "GET /newsroom/ HTTP/1.1" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.229 0.229 0.229 MISS 0 NC:000000 UP:-
+‮
+69.191.249.220 www.goldenagri.com.sg - [05/Oct/2022:08:57:48 +0000] "GET /news-events/press-releases/ HTTP/2.0" 200 39422 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:08:57:43 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=60984&action=postviews&_=1664960263476 HTTP/2.0" 200 5 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | 0.339 0.339 0.339 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:08:57:43 +0000] "GET /?mcsf_action=main_css&ver=6.0.2 HTTP/2.0" 200 389 "https://www.goldenagri.com.sg/investors/sgx-filings/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+129.126.160.33 www.goldenagri.com.sg - [05/Oct/2022:08:57:43 +0000] "GET /investors/sgx-filings/ HTTP/2.0" 200 64356 "https://www.goldenagri.com.sg/news-events/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:57:36 +0000] "GET /category/in-the-news HTTP/2.0" 404 710 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.231 0.231 0.231 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
+‮
+65.19.141.114 goldenagri.com.sg - [05/Oct/2022:08:57:34 +0000] "GET /category/in-the-news HTTP/1.1" 301 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | 0.274 0.274 0.275 MISS 0 NC:000000 UP:-
+‮
+103.138.116.42 goldenagri.com.sg - [05/Oct/2022:08:57:29 +0000] "GET /wp-content/uploads/2019/10/smaf-sml.png HTTP/1.1" 200 8748 "-" "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; Win64; x64; Trident/7.0; Microsoft Outlook 16.0.10366; ms-office; MSOffice 16)" | TLSv1.2 | - - 0.001 - 0 NC:000000 UP:-DT
+‮
+17.121.113.100 www.goldenagri.com.sg - [05/Oct/2022:08:57:17 +0000] "GET /sustainability/responsible-sourcing/grievance-handling/ HTTP/2.0" 200 15645 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)" | TLSv1.3 | 0.311 0.313 0.314 MISS 0 NC:000000 UP:-
+‮
+69.191.249.219 www.goldenagri.com.sg - [05/Oct/2022:08:57:16 +0000] "GET /investors/financial-highlights-reports-presentations/quarterly-reports/ HTTP/2.0" 200 17244 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+157.55.39.172 www.goldenagri.com.sg - [05/Oct/2022:08:57:05 +0000] "GET /cn/golden-agri-resources-gar-rebrands-its-animal-feed-supplements-as-gonutri-in-spain/ HTTP/2.0" 200 54019 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" | TLSv1.3 | 0.523 0.529 0.531 MISS 0 NC:000000 UP:-
+‮
+199.244.88.225 www.goldenagri.com.sg - [05/Oct/2022:08:57:02 +0000] "GET /id/products-service/seeds/ HTTP/2.0" 200 16495 "http://damimas.com" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+51.222.253.18 www.goldenagri.com.sg - [05/Oct/2022:08:56:42 +0000] "GET /cn/sustainability/responsible-sourcing/palm-supply-chain-traceability-and-transformation HTTP/2.0" 301 0 "-" "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)" | TLSv1.3 | 0.218 0.218 0.218 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /contact-us/?marker-id=60897 HTTP/2.0" 200 16993 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.331 0.332 0.332 BYPASS 0 NC:000100 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /contact-us/?marker-id=60892 HTTP/2.0" 200 16986 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.326 0.328 0.328 BYPASS 0 NC:000100 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-achievements/ HTTP/2.0" 200 16730 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /contact-us/ HTTP/2.0" 200 16971 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.290 0.291 0.290 BYPASS 0 NC:000100 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-business/ HTTP/2.0" 200 17826 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-leaderships/?tab=tab-0 HTTP/2.0" 200 21156 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-achievements HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.653 0.653 0.653 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-business HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.552 0.552 0.553 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-leaderships/?tab=tab-1 HTTP/2.0" 200 21157 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /suppliers/support-for-palm-suppliers/ HTTP/2.0" 200 19100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/ HTTP/2.0" 200 15696 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /contact-us?marker-id=60892 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.511 0.511 0.512 BYPASS 0 NC:000100 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-leaderships?tab=tab-0 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.515 0.515 0.516 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /contact-us?marker-id=60897 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.493 0.493 0.493 BYPASS 0 NC:000100 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-leaderships/ HTTP/2.0" 200 21152 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /contact-us HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.406 0.406 0.406 BYPASS 0 NC:000100 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-governance/ HTTP/2.0" 200 17329 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-shared-values/ HTTP/2.0" 200 15844 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.000 HIT 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /about-us/our-leaderships?tab=tab-1 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.362 0.362 0.362 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:39 +0000] "GET /suppliers/support-for-palm-suppliers HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.341 0.341 0.341 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:38 +0000] "GET /about-us HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.397 0.397 0.397 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:38 +0000] "GET /about-us/our-leaderships HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.271 0.271 0.271 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:38 +0000] "GET /about-us/our-governance HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.220 0.220 0.220 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:38 +0000] "GET /contact-us/?marker-id=60893 HTTP/2.0" 200 16994 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.339 0.340 0.340 BYPASS 0 NC:000100 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:38 +0000] "GET /about-us/our-shared-values HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.219 0.219 0.219 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:38 +0000] "GET /contact-us?marker-id=60893 HTTP/2.0" 301 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | 0.210 0.210 0.210 BYPASS 0 NC:000100 UP:-
+‮
+65.19.141.114 goldenagri.com.sg - [05/Oct/2022:08:56:37 +0000] "GET /newsroom HTTP/1.1" 301 242 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | - | 0.007 0.007 0.007 MISS 0 NC:000000 UP:-
+‮
+198.20.177.212 www.goldenagri.com.sg - [05/Oct/2022:08:56:36 +0000] "GET / HTTP/2.0" 200 18928 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+65.19.141.114 www.goldenagri.com.sg - [05/Oct/2022:08:56:35 +0000] "GET /robots.txt HTTP/2.0" 200 97 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.46 Safari/537.36" | TLSv1.3 | - - 0.001 HIT 0 NC:000000 UP:-
+‮
+40.77.189.205 www.goldenagri.com.sg - [05/Oct/2022:08:56:33 +0000] "GET /wp-admin/admin-ajax.php?postviews_id=71317&action=postviews&_=1664960189831 HTTP/2.0" 200 3 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b" | TLSv1.3 | 0.307 0.307 0.308 MISS 0 NC:000000 UP:SKIP_CACHE_NO_CACHE
