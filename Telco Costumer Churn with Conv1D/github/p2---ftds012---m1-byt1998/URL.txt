@@ -1,0 +1,2 @@
+backend: http://tf-serving-backend.herokuapp.com/v1/models/churn:predict
+frontend: https://dashboard.heroku.com/apps/frontend-enggar-m1p2
