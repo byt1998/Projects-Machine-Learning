@@ -1,0 +1,5 @@
+waitress
+pandas
+flask
+xgboost
+scikit-learn==1.1.1
