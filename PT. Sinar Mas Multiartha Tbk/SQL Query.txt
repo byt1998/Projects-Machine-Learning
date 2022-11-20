@@ -1,0 +1,75 @@
+create table TABEL_DEBITUR(
+  debitur_id int not null,
+  nama varchar(20) not null,
+  kelamin varchar(20) not null,
+  alamat varchar(20) not null,
+  primary key(debitur_id));
+  
+ create table TABEL_KONTRAK(
+   kontrak_id int not null,
+   debitur_id int not null,
+   otr float not null,
+   dp float not null,
+   tenor int not null,
+   tgl_kontrak date,
+   tgl_selesai date,
+   angsuran float not NULL,
+   rate float not null,
+   primary key (kontrak_id));
+
+insert into TABEL_DEBITUR(debitur_id, nama, kelamin, alamat)
+values
+(1, "Sofyan", "Lelaki", "Jl Biak No 3"),
+(2, "Sulis", "Wanita", "Jl Rajawali No 12"),
+(3, "Teguh", "Lelaki", "Jl Seruling no 3"),
+(4, "Tari", "Wanita", "Jl Biola No 1");
+
+insert into TABEL_KONTRAK(kontrak_id, debitur_id, otr, dp, tenor, tgl_kontrak, tgl_selesai, angsuran, rate)
+VALUES
+(1, 1, 15000000, 3000000, 12, 06-12-2012, 06-12-2013, 1100160, 0.18),
+(2, 2, 12000000, 2500000, 24, 12-02-2013, 12-02-2015, 474279, 0.18),
+(3, 2, 14000000, 4000000, 12, 16-03-2013, 16-03-2014, 916800, 0.18),
+(4, 3, 10000000, 3000000, 12, 26-04-2013, 26-04-2014, 641760, 0.18),
+(5, 1, 10000000, 2000000, 12, 28-05-2013, 28-05-2014, 733440, 0.18);
+
+select TABEL_KONTRAK.kontrak_id, TABEL_KONTRAK.debitur_id, TABEL_DEBITUR.nama, TABEL_DEBITUR.kelamin, TABEL_DEBITUR.alamat, TABEL_KONTRAK.otr, TABEL_KONTRAK.dp, TABEL_KONTRAK.tenor, TABEL_KONTRAK.tgl_kontrak, TABEL_KONTRAK.tgl_selesai, TABEL_KONTRAK.angsuran, TABEL_KONTRAK.rate
+from TABEL_DEBITUR
+inner join TABEL_KONTRAK on TABEL_DEBITUR.debitur_id=TABEL_KONTRAK.debitur_id;
+
+1. Create SQL QUERY for insert data to TABEL KONTRAK using data below
+insert into TABEL_KONTRAK(kontrak_id, debitur_id, otr, dp, tenor, tgl_kontrak, tgl_selesai, angsuran, rate)
+VALUES
+(6, 4, 20000000, 6000000, 36, 28-01-2014, 28-01-2019, 506134, 0.18);
+
+select TABEL_DEBITUR.nama, TABEL_KONTRAK.otr, TABEL_KONTRAK.dp, TABEL_KONTRAK.tenor, TABEL_KONTRAK.tgl_kontrak, TABEL_KONTRAK.tgl_selesai, TABEL_KONTRAK.angsuran, TABEL_KONTRAK.rate
+from TABEL_DEBITUR
+inner join TABEL_KONTRAK on TABEL_DEBITUR.debitur_id=TABEL_KONTRAK.debitur_id
+where TABEL_DEBITUR.nama="Tari";
+
+2. Create SQL QUERY for edit data from TABEL DEBITUR using data below  
+update TABEL_DEBITUR
+SET alamat='Jl Ampar No 33'
+where nama='Tari';
+
+SELECT nama, kelamin, alamat
+from TABEL_DEBITUR
+where nama='Tari';
+
+3. Create SQL QUERY for delete data from TABEL KONTRAK using data below
+select TABEL_DEBITUR.nama, TABEL_KONTRAK.tgl_kontrak
+from TABEL_DEBITUR
+inner join TABEL_KONTRAK on TABEL_DEBITUR.debitur_id=TABEL_KONTRAK.debitur_id
+where TABEL_DEBITUR.nama="Tari";
+
+4. Create SQL QUERY for display data “jumlah pinjaman” as below (JUMLAH PINJAMAN = OTR - DP)
+alter table TABEL_KONTRAK
+add column Jml_Pinjaman float as (otr - dp); 
+
+update TABEL_KONTRAK
+set otr='-', dp='-'
+where kontrak_id=6;
+
+select TABEL_DEBITUR.nama, count(TABEL_KONTRAK.debitur_id)Jml_Kontrak, sum(TABEL_KONTRAK.Jml_Pinjaman)Jml_Pinjaman, max(TABEL_KONTRAK.Jml_Pinjaman)Pinjaman_Terbesar
+from TABEL_DEBITUR
+inner join TABEL_KONTRAK on TABEL_DEBITUR.debitur_id=TABEL_KONTRAK.debitur_id 
+GROUP by TABEL_DEBITUR.nama order by Jml_Pinjaman DESC;
